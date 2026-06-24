@@ -48,6 +48,7 @@ The "who approved this, and prove it" half — escalating consequential actions 
 - [in-toto](https://in-toto.io/) - Framework for cryptographically verifying software supply-chain integrity; provenance patterns transferable to agent action chains.
 
 ## Audit Trails, Receipts & Provenance
+- [Nobulex](https://github.com/arian-gogani/nobulex) — Ed25519-signed, JCS-canonical (RFC 8785) bilateral receipts for AI agent actions. Pre-execution admission + post-execution outcome, hash-chained, independently verifiable. `action_ref = SHA-256(JCS({agent_id, action_type, scope, timestamp_ms}))`. EU AI Act Article 12 compliance. MIT licensed.
 
 - [OpenTelemetry GenAI semantic conventions](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - Emerging standard for instrumenting LLM and agent traces; the observability layer beneath audit.
 - [Sigstore](https://www.sigstore.dev/) - Keyless signing and transparency logs; the signing primitives under tamper-evident action records.
