@@ -67,7 +67,9 @@ The "who approved this, and prove it" half — escalating consequential actions 
 ## Research & Papers
 
 - [A Survey on Trustworthy LLM Agents: Threats and Countermeasures](https://arxiv.org/abs/2503.09648) - Comprehensive survey mapping the threat surface of LLM agents and the defenses proposed against them.
+- [Autonomous Defensive AI: An Envelope-and-Evidence Framework for Governed LLMs Acting on Production Infrastructure](https://doi.org/10.5281/zenodo.23089594) - Hiago Kin Levi's 2026 preprint defining action admissibility outside the model, capability-disjoint verification, and recomputable evidence for governed cyber defense. *(author contribution)*
 - [Constitutional AI](https://arxiv.org/abs/2212.08073) - Anthropic's approach to value-aligned model behavior; complementary to external enforcement.
+- [DAI: A Domain-Specific LLM with Model-Excluded Authority, Capability-Disjoint Verification, and Recomputable Receipts](https://doi.org/10.5281/zenodo.23089652) - Hiago Kin Levi's 2026 preprint describing a domain-specific LLM whose surrounding architecture separates learned recommendations from action authority and independently verifies effects. *(author contribution)*
 
 ## Articles & Guides
 
