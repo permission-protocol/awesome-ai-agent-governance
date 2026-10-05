@@ -25,6 +25,7 @@ This list is vendor-neutral. Entries are included on technical merit, and mainta
 - [EU AI Act](https://artificialintelligenceact.eu/) - Article 14 ("human oversight") is the regulatory backbone for human-in-the-loop requirements on high-risk AI.
 - [MITRE ATLAS](https://atlas.mitre.org/) - Adversarial threat landscape for AI systems; useful for threat-modeling agent attack paths.
 - [Google Agent2Agent Protocol (A2A)](https://github.com/google-a2a/A2A) - Open protocol for secure interoperability between AI agents, specifying how agents delegate tasks, assert identity, and exchange structured results.
+- [Agent Role Contracts](https://github.com/suirindo/agent-role-contracts) - Offline declaration checker for AI-agent roles, authority, task scope, review separation, and handoffs before execution; it validates declarations but does not grant runtime permission. *(maintainer project)*
 
 ## Policy & Authorization Engines
 
