@@ -50,6 +50,7 @@ The "who approved this, and prove it" half — escalating consequential actions 
 
 ## Audit Trails, Receipts & Provenance
 
+- [aaesverify](https://github.com/aaes-ai/aaesverify) - Apache-2.0 CLI for checking the integrity of AAES exported agent-action records offline against supplied trust material; checks do not establish complete capture or successful downstream execution.
 - [OpenTelemetry GenAI semantic conventions](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - Emerging standard for instrumenting LLM and agent traces; the observability layer beneath audit.
 - [Sigstore](https://www.sigstore.dev/) - Keyless signing and transparency logs; the signing primitives under tamper-evident action records.
 
