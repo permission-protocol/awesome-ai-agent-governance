@@ -32,6 +32,7 @@ Deterministic "can this action happen?" decision engines — the allow/deny half
 
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - CNCF policy engine using Rego policies for fine-grained authorization, increasingly applied to agent tool calls.
 - [Cedar](https://www.cedarpolicy.com/) - AWS's open-source authorization policy language and engine.
+- [HOL Guard](https://hol.org/guard) - Open-source runtime checks for AI-agent commands, file access, package installs, and MCP calls, with local approvals and decision receipts. *(maintainer project)*
 - [Permit.io](https://www.permit.io/) - Authorization-as-a-service with published patterns for gating AI agent actions.
 - [Oso](https://www.osohq.com/) - Authorization framework and library for application-level access control.
 
