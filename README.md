@@ -34,6 +34,7 @@ Deterministic "can this action happen?" decision engines — the allow/deny half
 - [Cedar](https://www.cedarpolicy.com/) - AWS's open-source authorization policy language and engine.
 - [Permit.io](https://www.permit.io/) - Authorization-as-a-service with published patterns for gating AI agent actions.
 - [Oso](https://www.osohq.com/) - Authorization framework and library for application-level access control.
+- [MAQPNA](https://maqpna.com) - Self-hosted runtime that sends agent tool, model, MCP and A2A calls through one gateway with default-deny policy per tool and argument, human (including two-person) approvals and a hash-chained audit ledger; commercial and closed-source, with a free Community edition.
 
 ## Human-in-the-Loop & Approval Layers
 
